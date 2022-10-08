@@ -195,7 +195,7 @@ img {
 .home__footer {
   display: flex;
   justify-content: center;
-  column-gap: .5rem;
+  column-gap: .2rem;
   font-size: var(--smaller-font-size);
   align-self: flex-end;
 }
